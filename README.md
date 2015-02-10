@@ -1,10 +1,17 @@
 Casper-Shadow-Front
 ===================
 
-Dark theme for [Ghost](http://github.com/tryghost/ghost/). Forked from the Casper default Ghost theme.
+Dark theme for [Ghost](http://github.com/tryghost/ghost/). Forked from default Ghost theme [Casper](http://github.com/tryghost/casper/).
 
-![Casper-Shadow-Front](http://pix.toile-libre.org/upload/original/1382463841.png)
+![Casper-Shadow-Front](http://unicoda.com/wp-content/uploads/2015/02/casper-shadow-front-1.1.5.png)
 
-##License
+## Copyright & License
 
-Mit, see License.txt.
+Copyright (c) 2013-2015 Victor Voisin - Released under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
